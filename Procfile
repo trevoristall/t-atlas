@@ -1,1 +1,1 @@
-web: node dist/app.js
+web: npm run build && npm run start

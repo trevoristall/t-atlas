@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Trevor Allen",
+    "label": "Software Engineer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA3fAAAAJDlkODUzY2M5LTY2N2MtNGEzNy04M2UwLWYwZjE4NGQ0NTljZA.jpg",
+    "email": "trevoristall@gmail.com",
+    "phone": "(423) 202-0724",
+    "website": "https://trevoristall.github.io",
+    "summary": "Trevor hails from the west coast. While his work focuses on front end and mobile development, he is also an accomplished backend engineer with experience in several prominent languages and a love for all things web. A dedicated life long learner.",
+    "location": {
+      "address": "1010 25th St NW",
+      "postalCode": "DC 20037",
+      "city": "Washington",
+      "countryCode": "US",
+      "region": "District of Columbia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "trevoristall",
+        "url": "https://twitter.com/trevoristall"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "ampleheights",
+        "url": "https://soundcloud.com/ampleheights"
+      },
+      {
+        "network": "Github",
+        "username": "trevoristall",
+        "url": "https://github.com/trevoristall"
+      },
+      {
+        "network": "Keybase",
+        "username": "Keybase - tatlas",
+        "url": "https://keybase.io/tatlas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Aquicore",
+      "position": "Software Engineer/Frontend Developer",
+      "website": "https://aquicore.com/",
+      "startDate": "2017-01-03",
+      "endDate": "Current",
+      "summary": "Aquicore is a SaaS and IoT company that provides Real-time commercial energy management metrics, reporting and automation.",
+      "highlights": [
+        "Built a portfolio level report highlighting critical budget and performance information (used by customers such as Facebook, Walmart and Underarmor)",
+        "Leveled up our application's user experience by overhauling many parts of the UI with material design and Aria accessibility compliance."
+      ]
+    },
+    {
+      "company": "Knucklepuck Media",
+      "position": "Lead Developer",
+      "website": "https://www.knucklepuckmedia.com",
+      "startDate": "2015/07/12",
+      "endDate": "2016/25/12",
+      "summary": "Knucklepuck Media is an SEO and digital marketing startup focused on high-quality customer centric work.",
+      "highlights": [
+        "Built launched and maintained https://www.teenrehabcenter.org - growing visitors from nothing to thousands a week in less than a year",
+        "Managed server and DNS infrastructure for clients and internal projects",
+        "Implemented many of the project planning and management policies still in use by the company"
+      ]
+    },
+    {
+      "company": "Asheville Yoga Center",
+      "position": "Web Administrator",
+      "website": "http://youryoga.com/",
+      "startDate": "2015/14/03",
+      "endDate": "2015/12/11",
+      "summary": "Asheville Yoga Center is the largest yoga campus in Asheville. they teach over 100 weekly classes and train hundreds of people every year from all over the US",
+      "highlights": [
+        "Developed a web API to pull scheduling information for classes and trainings into their website",
+        "Migrated entire company from Godaddy email hosting to Google apps",
+        "moved web portfolio from hostgator/cpanel to custom php/nginx configuration on Digital ocean - increasing site speeds by upwards of ~70%"
+      ]
+    },
+    {
+      "company": "The Wired Mouse",
+      "position": "Web Developer",
+      "website": "http://www.thewiredmouse.com/",
+      "startDate": "2014/14/03",
+      "endDate": "2015/12/03",
+      "summary": "The Wired Mouse is a complete IT solutions provider located in Asheville, North Carolina",
+      "highlights": [
+        "Worked with clients ranging from individuals to More Space Place building websites, plugins and web services",
+        "pushed for more modern and mobile friendly development practices, increasing the development team's effectiveness and increasing business "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Plugit.com",
+      "position": "Junior IT assistant",
+      "website": "",
+      "startDate": "2003-01-07",
+      "endDate": "2003-01-08",
+      "summary": "Assisted with simple maintenance and cleaning of the computer hardware used in the server and user areas of the building.",
+      "highlights": []
+    }
+  ],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MVC frameworks (Angular, React, Vue)",
+        "REST principles",
+        "Node, PHP, Java, Go and Python",
+        "Git, Heroku, AWS, CircleCi"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "",
+      "keywords": [
+        "Illustrator",
+        "Photoshop",
+        "Sketch app",
+        "UI/UX prototyping",
+        "Logo and graphic design"
+      ]
+    },
+    {
+      "name": "Mobile apps",
+      "level": "",
+      "keywords": [
+        "React Native",
+        "Cross platform "
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Rudamentary"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling",
+      "keywords": []
+    },
+    {
+      "name": "Film",
+      "keywords": []
+    },
+    {
+      "name": "Sound design and music composition",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
