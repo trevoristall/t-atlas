@@ -8,7 +8,7 @@ setInterval(() => {
 }, 300000); // every 5 minutes (300000)
 
 app.get('/', (req, res) => {
-    res.send(require('../resume.json'));
+    res.json(require('../resume.json'));
 })
 
-app.listen(80);
+app.listen(3000);
