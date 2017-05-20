@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/koa": "^2.0.39",
+    "koa": "^2.2.0",
+    "typescript": "^2.3.2"
+  }
+}
