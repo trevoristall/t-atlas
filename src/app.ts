@@ -11,4 +11,4 @@ app.get('/', (req, res) => {
     res.send(require('../resume.json'));
 })
 
-app.listen(3000);
+app.listen(80);
