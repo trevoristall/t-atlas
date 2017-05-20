@@ -5,9 +5,13 @@
         "strictNullChecks": true,   // enable strict null checks as a best practice
         "module": "es6",            // specifiy module code generation
         "target": "es6",            // specify ECMAScript target version
-        "allowJs": true             // allow a partial TypeScript and JavaScript codebase
+        "allowJs": true,             // allow a partial TypeScript and JavaScript codebase
+        "typeRoots": ["node_modules/@types"]
     },
     "include": [
         "./src/"
+    ],
+    "exclude": [
+        "node_modules"
     ]
 }
