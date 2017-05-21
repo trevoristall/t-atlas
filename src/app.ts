@@ -2,10 +2,12 @@ const express = require('express');
 const http = require('http');
 const app = express();
 
+const randomInt(min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+
 // prevent Heroku app sleep
 setInterval(() => {
     http.get('http://t-atlas.herokuapp.com');
-}, 600000); // every 10 minutes
+}, randomInt(600000, 1200000)); // every 10 - 20 minutes
 
 app.get('/', (req, res) => {
     res.json(require('../resume.json'));
