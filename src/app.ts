@@ -2,7 +2,7 @@ const express = require('express');
 const http = require('http');
 const app = express();
 
-const randomInt(min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+const randomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 // prevent Heroku app sleep
 setInterval(() => {
